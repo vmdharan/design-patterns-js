@@ -1,0 +1,25 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "A collection of design patterns in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "server": "http-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmdharan/design-patterns-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmdharan/design-patterns-js/issues"
+  },
+  "homepage": "https://github.com/vmdharan/design-patterns-js#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
